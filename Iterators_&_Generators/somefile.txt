@@ -1,0 +1,9 @@
+hello
+how are you?
+please reply
+bye
+hi
+go
+ant
+python
+python is programming language
